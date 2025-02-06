@@ -1,0 +1,23 @@
+{
+  "name": "thptudw",
+  "version": "1.0.0",
+  "description": "Bài thực hành môn phát triển ứng dụng web - backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limito9x/THPTUDW.git"
+  },
+  "author": "Lê Công Thuận",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Limito9x/THPTUDW/issues"
+  },
+  "homepage": "https://github.com/Limito9x/THPTUDW#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
